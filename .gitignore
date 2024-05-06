@@ -1,0 +1,10 @@
+﻿################################################################################
+# Ten plik .gitignore został utworzony automatycznie przez Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/raccapp/FileContentIndex/259877a3-e076-403b-9a18-bea3f0c92f53.vsidx
+/.vs/raccapp/FileContentIndex
+/obj
+/.vs/raccapp/v17
+/Properties
+/.vs
