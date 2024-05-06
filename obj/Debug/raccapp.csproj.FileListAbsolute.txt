@@ -1,0 +1,10 @@
+C:\Users\Olek\source\repos\raccapp\bin\Debug\raccapp.exe.config
+C:\Users\Olek\source\repos\raccapp\bin\Debug\raccapp.exe
+C:\Users\Olek\source\repos\raccapp\bin\Debug\raccapp.pdb
+C:\Users\Olek\source\repos\raccapp\obj\Debug\raccapp.csproj.AssemblyReference.cache
+C:\Users\Olek\source\repos\raccapp\obj\Debug\raccapp.Kurwy.resources
+C:\Users\Olek\source\repos\raccapp\obj\Debug\raccapp.Properties.Resources.resources
+C:\Users\Olek\source\repos\raccapp\obj\Debug\raccapp.csproj.GenerateResource.cache
+C:\Users\Olek\source\repos\raccapp\obj\Debug\raccapp.csproj.CoreCompileInputs.cache
+C:\Users\Olek\source\repos\raccapp\obj\Debug\raccapp.exe
+C:\Users\Olek\source\repos\raccapp\obj\Debug\raccapp.pdb
